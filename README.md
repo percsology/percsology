@@ -1,4 +1,4 @@
-<h1 align="center">percsology</h1>
+<h1 align="center">PERCSOLOGY</h1>
 
 ###
 
