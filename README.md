@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Kaio, I'm a Graphic Designer and Backend Developer, from Brazil, São Paulo.</p>
+<p align="center">My name is Kaio, I'm a Graphic Designer and Web Dev, from Brazil, São Paulo.</p>
 
 <h2 align="center">ABOUT ME</h2>
 
